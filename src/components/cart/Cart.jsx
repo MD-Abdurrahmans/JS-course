@@ -6,7 +6,7 @@ export default function Cart({ selectCourse, credit, totalPrice, remaining }) {
 
    return (
 
-        <div className="p-6 bg-white">
+        <div className="p-6 bg-white mt-10 md:mt-0">
          <div>
             <h1 className="text-base text-[#2F80ED] font-bold">Credit Hour Remaining {remaining} hr</h1>
          </div>
