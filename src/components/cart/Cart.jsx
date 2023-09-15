@@ -38,8 +38,8 @@ export default function Cart({selectCourse,credit,totalPrice}) {
         
      </div>
 
-     {/* <h1>Total Credit Hour:{credit}</h1>
-     <h1>Total Price :{totalPrice} USD</h1> */}
+     <h1>Total Credit Hour:{credit}</h1>
+     <h1>Total Price :{totalPrice} USD</h1>
     </div>
 
 
