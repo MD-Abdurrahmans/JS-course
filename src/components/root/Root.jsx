@@ -9,7 +9,7 @@ const [allCourse,setAllcourse] =useState([]);
 const [selectCourse,setSelectcourse] = useState([])
 const [credit,setCredit] = useState(0)
 const [totalPrice,setTotalPrice] = useState(0)
-// const [remaining,setRemaining] = useState(0)
+const [remaining,setRemaining] = useState(0)
 
     useEffect(()=>{
 
@@ -37,17 +37,23 @@ const handleAddToCart=(ID,course)=>{
    if(newCredit >20){
     alert('credit lmited')
    }else{
-    setCredit(newCredit);
+     setRemaining(20 -newCredit);
+     setCredit(newCredit);
+
     const newSelectCourse = [...selectCourse,course];
+
     setSelectcourse(newSelectCourse)
-  
+    
     
   
     const newTotalPrice =  totalPrice + course.Price;
     setTotalPrice(newTotalPrice);
   
+
+
    }
  
+
 
 
 
@@ -57,7 +63,6 @@ const handleAddToCart=(ID,course)=>{
   
 
 }
-
 
   return (
 
@@ -86,6 +91,8 @@ const handleAddToCart=(ID,course)=>{
      credit={credit}
 
      totalPrice={totalPrice}
+
+     remaining={remaining}
      ></Cart>
      </div>
 

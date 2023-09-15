@@ -1,5 +1,5 @@
 
-export default function Cart({selectCourse,credit,totalPrice}) {
+export default function Cart({selectCourse,credit,totalPrice,remaining}) {
     // console.log(selectCourse)
     // const {Credit} =selectCourse;
 
@@ -9,7 +9,7 @@ export default function Cart({selectCourse,credit,totalPrice}) {
    
     <div className="">
  <div>
-    <h1 className="text-blue">Credit Hour Remaining hr</h1>
+    <h1 className="text-blue">Credit Hour Remaining {remaining} hr</h1>
  </div>
   <h1 className="text-2xl text-center font-bold mb-5">Course Name</h1>
   
