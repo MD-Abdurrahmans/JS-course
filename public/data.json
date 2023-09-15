@@ -1,0 +1,77 @@
+[
+    {
+        "ID": 1,
+        "Cover": "https://i.ibb.co/4JtdKrY/Rectangle-2-2.png",
+        "Title": "Introduction to C Programming",
+        "Description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "Price" : 15000,
+        "Credit" : 1
+      
+    },
+    {
+        "ID": 2,
+        "Cover": "https://i.ibb.co/3d5zFt7/Rectangle-2-3.png",
+        "Title": "Introduction to Algorithms",
+        "Description": " Introduction to Algorithms fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+        "Price" : 25000,
+        "Credit" : 2
+    },
+    {
+        "ID": 3,
+        "Cover": "https://i.ibb.co/Y20ctnF/Rectangle-2-4.png",
+        "Title": "Introduction to C++ for DSA",
+        "Description": "C++ is a versatile and powerful powerful powerful programmingfact that a reader will be distracted by the readable content of a .",
+        "Price" : 10000,
+        "Credit" : 10
+    },
+
+    {
+
+        "ID": 4,
+        "Cover": "https://i.ibb.co/zrXWmDV/Rectangle-3.png",
+        "Title": "Basic Data Structures",
+        "Description": "Basic Data Structures language that is widely used in the field of Data Structuresfact that a reader will be distracted by the readable content",
+        "Price" : 35000,
+        "Credit" : 5
+    },
+    {
+        "ID": 5,
+        "Cover": "https://i.ibb.co/KwBDwx1/Rectangle-2.png",
+        "Title": "Introduction to OOP Python",
+        "Description": "Introduction to OOP Pythonprogramming language that is widely used in the field of Data Structuresfact that a reader will be distracted by the readable content",
+        "Price" : 19000,
+        "Credit" : 5
+    },
+    {
+        "ID": 6,
+        "Cover": "https://i.ibb.co/6bB6d6v/Rectangle-2-5.png",
+        "Title": "Software Engineering",
+        "Description": "Software Engineering programming language that is widely used in the field of Data Structuresfact that a reader will be distracted by the readable content",
+        "Price" : 23000,
+        "Credit" : 2
+    },
+    {
+        "ID": 7,
+        "Cover": "https://i.ibb.co/TYCMV1h/Rectangle-3-1.png",
+        "Title": "AWS, Cloud Computing",
+        "Description": "AWS, Cloud Computing programming language that is widely used in the field of Data Structuresfact that a reader will be distracted by the readable content",
+        "Price" : 35000,
+        "Credit" : 5
+    },
+    {
+        "ID": 8,
+        "Cover": "https://i.ibb.co/MnkCMSN/Rectangle-2-1.png",
+        "Title": "Database (MySQL)",
+        "Description": "Database (MySQL) and powerful programming that is widely used in the field of Data Structuresfact that a reader will be distracted by the readable content",
+        "Price" : 19000,
+        "Credit" : 5
+    },
+    {
+        "ID": 9,
+        "Cover": "https://i.ibb.co/CnGrYw1/Rectangle-4-6.png",
+        "Title": "Problem-Solving Part",
+        "Description": "Problem-Solving Part and powerful programmingthat is widely used in the field of Data Structuresfact that a reader will be distracted by the readable content",
+        "Price" : 23000,
+        "Credit" : 2
+    }
+]
