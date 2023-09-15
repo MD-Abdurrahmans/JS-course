@@ -7,6 +7,7 @@ function App() {
  
 
   return (
+
     <>
            <div className='md:container mx-auto '>
                <h1 className='text-3xl text-center pt-10 mb-8 font-bold'> Course Registration</h1>
@@ -14,7 +15,9 @@ function App() {
           
            </div>
     </>
+    
   )
+
 }
 
 export default App

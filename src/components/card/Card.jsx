@@ -25,7 +25,7 @@ export default function Card({ course, handleAddToCart }) {
             <div className="mx-4">     <FaBookOpen size='1.5rem' ></FaBookOpen> </div>  Credit: {Credit}hr
           </div>
           <div className="card-actions mt-4 ">
-          <button onClick={() => handleAddToCart(ID, course)} className="btn btn-primary w-full">Buy Now</button>
+          <button onClick={() => handleAddToCart(ID, course)} className="btn btn-primary w-full">Select</button>
         </div>
         </div>
 

@@ -72,7 +72,7 @@ export default function Root() {
 
 
 
-      <div className="grid md:mr-4  grid-cols-1 md:grid-cols-2 lg:grid-cols-3   md:gap-4   ">
+      <div className="grid md:mr-4  grid-cols-1 md:grid-cols-2 xl:grid-cols-3  mx-4 gap-4   md:gap-4   ">
         {
           allCourse.map((course,idx) => <Card
 
@@ -85,7 +85,7 @@ export default function Root() {
 
 
 
-      <div className="border w-full md:flex-1">
+      <div className="border w-full  md:flex-1">
         <Cart
 
           selectCourse={selectCourse}
