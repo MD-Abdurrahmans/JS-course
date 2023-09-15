@@ -8,8 +8,8 @@ function App() {
 
   return (
     <>
-           <div className='w-full mt-10'>
-               <h1 className='text-3xl text-center font-bold'> Course Registration</h1>
+           <div className='md:container mx-auto '>
+               <h1 className='text-3xl text-center pt-10 mb-8 font-bold'> Course Registration</h1>
           <Root></Root>
           
            </div>

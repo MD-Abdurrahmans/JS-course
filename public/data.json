@@ -38,7 +38,7 @@
         "ID": 5,
         "Cover": "https://i.ibb.co/KwBDwx1/Rectangle-2.png",
         "Title": "Introduction to OOP Python",
-        "Description": "Introduction to OOP Pythonprogramming language that is widely used in the field of Data Structuresfact that a reader will be distracted by the readable content",
+        "Description": "Introduction to language that is widely used in the field of Data Structuresfact that a reader will be distracted by the readable content",
         "Price" : 19000,
         "Credit" : 5
     },
@@ -54,7 +54,7 @@
         "ID": 7,
         "Cover": "https://i.ibb.co/TYCMV1h/Rectangle-3-1.png",
         "Title": "AWS, Cloud Computing",
-        "Description": "AWS, Cloud Computing programming language that is widely used in the field of Data Structuresfact that a reader will be distracted by the readable content",
+        "Description": "AWS, Cloud Computing that is widely used in the field of Data Structuresfact that a reader will be distracted by the readable content",
         "Price" : 35000,
         "Credit" : 5
     },
